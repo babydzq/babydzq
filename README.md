@@ -1,16 +1,119 @@
-## Hi there 👋
+# Hi, I'm Eve 段紫琪 👋
 
-<!--
-**babydzq/babydzq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我正在做一件事：
 
-Here are some ideas to get you started:
+帮助 B2B 企业创始人，把个人经验、行业认知、销售话术和客户案例，沉淀成可持续生产内容、建立信任、辅助获客的 AI 内容系统。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 我的定位
+
+AI + Founder IP practitioner  
+创始人IP系统设计师｜AI内容工作流搭建者｜商业修行型内容创业者
+
+我关注的不是“让老板变网红”，而是帮助企业把创始人的专业认知、行业经验和成交逻辑，变成一套可复制、可持续、可交付的内容资产系统。
+
+---
+
+## 我正在研究和交付的方向
+
+- Founder IP Strategy｜创始人IP定位
+- AI Content Workflow｜AI内容生产工作流
+- Digital Human Video｜真人数字人视频
+- B2B Trust Marketing｜B2B信任型获客
+- Prompt Engineering for Business｜商业提示词工程
+- Business Cultivation｜商业修行
+
+---
+
+## 我的核心判断
+
+B2B 企业做短视频，真正的难点不是“会不会拍”，而是：
+
+1. 创始人的认知没有被结构化
+2. 企业的客户案例没有被内容化
+3. 销售过程中的高频问题没有被资产化
+4. 内容生产长期依赖人力，无法形成系统
+5. 短视频、私域、成交之间没有形成闭环
+
+所以，创始人IP不是表演系统，而是信任系统。  
+AI不是替代老板，而是把老板的经验放大、复制和系统化。
+
+---
+
+## 当前项目
+
+### 1. Founder IP Prompt Library｜创始人IP提示词库
+
+用于帮助企业创始人完成：
+
+- 账号诊断
+- 选题生成
+- 口播脚本
+- 客户案例提炼
+- 私域转化话术
+- 数字人视频脚本
+
+### 2. AI Founder Content System｜AI创始人内容系统
+
+一套面向 B2B 企业的内容生产系统，包括：
+
+- 定位
+- 选题
+- 文案
+- 数字人
+- 分发
+- 私域承接
+- 成交转化
+
+### 3. B2B AI-IP Case Library｜B2B AI-IP案例库
+
+记录不同行业如何用 AI + 创始人IP 建立信任型获客系统。
+
+### 4. Business Cultivation Notes｜商业修行笔记
+
+记录创业、关系、金钱、心性、能量管理中的真实修行。
+
+---
+
+## 我服务的人群
+
+适合以下类型的企业主、创始人和团队：
+
+- 高客单 B2B 企业
+- 制造业老板
+- 咨询服务机构
+- 律所、财税、移民、教育类专业服务
+- 本地生活中高客单商家
+- 想用 AI 降低内容生产成本的企业
+- 想打造创始人IP但不知道如何开始的人
+
+---
+
+## 我的服务入口
+
+### 创始人短视频账号诊断
+
+1 小时内帮助你判断：
+
+- 你的账号定位是否清晰
+- 你适合讲什么内容
+- 你的客户为什么不信任你
+- 你的短视频如何承接私域和成交
+- 你能不能用 AI + 数字人降低内容生产成本
+
+交付结果：
+
+- 账号诊断结果
+- 下周可执行选题方向
+- AI 工具清单
+- 内容生产步骤
+- 私域承接建议
+
+---
+
+## 联系我
+
+Email: 13500599652@163.com  
+wechat：cjwai5
+GitHub: @babydzq
